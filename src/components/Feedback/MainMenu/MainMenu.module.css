@@ -14,7 +14,7 @@
   cursor: pointer;
   font-size: 26px;}
 
-.btn_menu:hover{
+.btn_menu:active{
   background-color: blue;
   scale: 1.15;
   box-shadow: 8px 8px 8px 1px rgba(0, 0, 255, .2);
