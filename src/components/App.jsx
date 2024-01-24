@@ -3,7 +3,7 @@ import { Component } from 'react';
 import MainMenu from './Feedback/MainMenu/MainMenu';
 import Results from './Feedback/Results/Results';
 import Block from './Feedback/Block/Block';
-import Notification from './Feedback/Notification/Notification.jsx';
+import Notification from './Feedback/Notification/Notification';
 
 class App extends Component {
   state = { good: 0, neutral: 0, bad: 0 };

@@ -11,6 +11,7 @@
   text-decoration: none;
   display: inline-block;
   text-transform: capitalize;
+  cursor: pointer;
   font-size: 26px;}
 
 .btn_menu:hover{
