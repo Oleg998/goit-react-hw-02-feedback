@@ -1,0 +1,8 @@
+.statistic_list{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.conteiner_satat {
+    padding-top: 15px;
+}
